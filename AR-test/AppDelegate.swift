@@ -5,6 +5,17 @@
 //  Created by Huda Almadi on 23/01/2026.
 //
 
+
+
+//  جربت اخلي المجسم يتععرف ع الجدار لقيت من ابل موجود اسمه ARWorldTrackingConfiguration
+// لقيت انه هذا هو نظام تتبع العالم من Apple.
+// config.planeDetection = [.horizontal, .vertical] هنا يتعرف ع الارض والجدار والطاولات
+
+// يارب ان يفتح معك بس ابيك نجربين الكود وعلميني اذا فيه شي، انا م يتفتح معي
+ 
+
+
+
 import UIKit
 import SwiftUI
 
